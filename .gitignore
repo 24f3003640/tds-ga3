@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+aipipe_cache.json
+aipipe_cache.json.tmp
